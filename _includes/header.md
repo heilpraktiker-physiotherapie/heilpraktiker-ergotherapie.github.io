@@ -13,11 +13,11 @@
         <div class="navbuttonsbar">
             <a class="page-link" href="{{site.baseurl}}/"><button class="barbuttons">Homepage</button></a>
             <a class="page-link" href="{{site.baseurl}}/termine-und-anmeldung/"><button class="barbuttons">Termine</button></a>
-            <a class="page-link" href="{{site.baseurl}}/fortbildung-zum-heilpraktiker-physiotherapie/"><button class="barbuttons">Fortbildung</button></a>
+            <a class="page-link" href="{{site.baseurl}}/fortbildung-zum-heilpraktiker-Ergotherapie/"><button class="barbuttons">Fortbildung</button></a>
             <a class="page-link" href="{{site.baseurl}}/voraussetzungen-und-anerkennung/"><button class="barbuttons">Voraussetzungen</button></a>
-            <a class="page-link" href="{{site.baseurl}}/was-ist-ein-heilpraktiker-physiotherapie/"><button class="barbuttons">Infos zum HP Physio</button></a>
+            <a class="page-link" href="{{site.baseurl}}/was-ist-ein-heilpraktiker-Ergotherapie/"><button class="barbuttons">Infos zum HP Ergo</button></a>
             <a class="page-link" href="{{site.baseurl}}/kontakt/"><button class="barbuttons">Kontakt</button></a>
-            <a class="page-link" href="{{site.baseurl}}/neuigkeiten-und-lesenswertes-zum-heilpraktiker-physiotherapie/"><button class="barbuttons">Blog</button></a>
+            <a class="page-link" href="{{site.baseurl}}/neuigkeiten-und-lesenswertes-zum-heilpraktiker-Ergotherapie/"><button class="barbuttons">Blog</button></a>
             <a class="page-link" href="{{site.baseurl}}/datenschutz/"><button class="barbuttons">Datenschutz</button></a>
         </div>
     </nav>

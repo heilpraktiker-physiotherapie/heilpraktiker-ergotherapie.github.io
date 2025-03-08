@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Termine und Anmeldung zur Fortbildung sektoraler Heilpraktiker Physiotherapie
-metatitle: Termine zur Fortbildung sektoraler Heilpraktiker Physiotherapie
-description: Termine und Anmeldeformular zur Fortbildung Heilpraktiker für Physiotherapie
+title: Termine und Anmeldung zur Fortbildung sektoraler Heilpraktiker Ergotherapie
+metatitle: Termine zur Fortbildung sektoraler Heilpraktiker Ergotherapie
+description: Termine und Anmeldeformular zur Fortbildung Heilpraktiker für Ergotherapie
 scssfile: termine.scss
 customamp:
     - amp-iframe
 ---
 Du hast Dich entschieden den Weg zum Direktzugang mit uns zu gehen?!  
 Gute Entscheidung! Versprochen ;-)  
-Wir bieten viele Kursorte z.B. in Niedersachsen, Nordrhein-Westfalen, Hessen, Rheinland-Pfalz, Bayern und Thüringen, um Physiotherapeuten auf dem Weg zum <em>Heilpraktiker Physiotherapie</em> zu begleiten. Hinzu kommen unsere beliebten Onlinekurse, die Du ganz entspannt von Deinem Sofa zuhause aus absolvieren kannst.  
+Wir bieten viele Kursorte z.B. in Niedersachsen, Nordrhein-Westfalen, Hessen, Rheinland-Pfalz, Bayern und Thüringen, um Ergotherapeuten auf dem Weg zum <em>Heilpraktiker Ergotherapie</em> zu begleiten. Hinzu kommen unsere beliebten Onlinekurse, die Du ganz entspannt von Deinem Sofa zuhause aus absolvieren kannst.  
 Für die meisten Teilnehmer der Fortbildung ist es bzgl. der Anerkennung egal, wo diese stattfindet. Sie können also z.B. auch aus Bayern am Kurs in NRW teilnehmen. Für die Anerkennung nach Aktenlage spielt das keine Rolle.  Die Vorgaben zur Erlaubniserteilung sind jedoch nicht überall gleich. Genau Informationen dazu erhälst Du unter <a href="{{site.baseurl}}/voraussetzungen-und-anerkennung/">Voraussetzungen</a>.
 
 
@@ -100,10 +100,10 @@ Die Termine werden üblicherweise zwischen 4 und 8 Monaten im Voraus bekannt geg
 Wir sind dabei nicht an einen festen Ort gebunden, sondern in vielen Orten Deutschlands wechselnd unterwegs. So sollte auch für Dich in absehbarer Zeit ein Kurs erreichbar sein.  
 Wer es eilig hat, muss vielleicht etwas weiter fahren. Die Reise lohnt sich für Dich.
 
-Weitere Informationen zu den zu den Anforderungen für den Heilpraktiker Physiotherapie in einzelnen Bundesländern, findest Du unter [Voraussetzungen]({{site.baseurl}}/voraussetzungen-und-anerkennung/).
+Weitere Informationen zu den zu den Anforderungen für den Heilpraktiker Ergotherapie in einzelnen Bundesländern, findest Du unter [Voraussetzungen]({{site.baseurl}}/voraussetzungen-und-anerkennung/).
 
 Bei einigen Kursen arbeiten wir mit externen Fortbildungsanbietern zusammen. Bei diesen Kursen findet die Anmeldung über deren jeweilige Systeme statt.  
 Andere Kurse werden von uns selbst organisiert. Die Anmeldung erfolgt dann über unser Online-Anmeldeformular. Klicke dafür einfach oben auf dieser Seite auf den grünen Button bei Deinem gewählten Termin.  
 
 Die Fortbildung findet zur Zeit meist an 2 mal 3 Tagen statt, von Freitag 12 oder 13 Uhr bis 20 Uhr und Samstag und Sonntag je von 9 bis 18 Uhr.
-Weitere Informationen zu [unserer Fortbildung zum <em>Heilpraktiker Physiotherapie</em>, findest Du unter Fortbildung]({{site.baseurl}}/fortbildung-zum-heilpraktiker-physiotherapie/).
+Weitere Informationen zu [unserer Fortbildung zum <em>Heilpraktiker Ergotherapie</em>, findest Du unter Fortbildung]({{site.baseurl}}/fortbildung-zum-heilpraktiker-Ergotherapie/).

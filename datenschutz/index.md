@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Datenschutz
-description: Datenschutzerklärung von heilpraktiker-physiotherapie.com
+description: Datenschutzerklärung von heilpraktiker-Ergotherapie.com
 
 ---
 Datenschutzerklärung
@@ -13,8 +13,8 @@ Arne Brödel
 Kiefernstraße 33
 40233 Düsseldorf
 Deutschland
-info@heilpraktiker-physiotherapie.com
-https://heilpraktiker-physiotherapie.com/impressum/
+info@heilpraktiker-Ergotherapie.com
+https://heilpraktiker-Ergotherapie.com/impressum/
 
 Erfassung personenbezogener Daten
 „Personenbezogene Daten“ sind nach DSGVO alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im Folgenden „betroffene Person“) beziehen; als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind, identifiziert werden kann. 
@@ -34,7 +34,7 @@ Widerrufsrecht
 Sie haben das Recht, erteilte Einwilligungen gem. Art. 7 Abs. 3 DSGVO mit Wirkung für die Zukunft zu widerrufen und können nach Artikel 21 DSGVO der zukünftigen Verarbeitung jederzeit wiedersprechen.
 
 Cookies und Widerspruchsrecht bei Direktwerbung
-Heilpraktiker-physiotherapie.com nutzt selbst keine Cookies zum speichern oder sammeln von Daten über Nutzer. Es kommen jedoch Plugins von Drittanbietern zum Einsatz, welche teilweise Nutzerdaten in Cookies speichern und daraus verarbeiten. Dazu gehören Plugins von Google, Youtube, Facebook, Twitter und Disqus.
+Heilpraktiker-Ergotherapie.com nutzt selbst keine Cookies zum speichern oder sammeln von Daten über Nutzer. Es kommen jedoch Plugins von Drittanbietern zum Einsatz, welche teilweise Nutzerdaten in Cookies speichern und daraus verarbeiten. Dazu gehören Plugins von Google, Youtube, Facebook, Twitter und Disqus.
 Nutzer können das Speichern von Cookies über die Systemeinstellungen ihres Browsers deaktivieren und gespeicherte Cookies löschen.
 
 Ein genereller Widerspruch gegen den Einsatz der zu Zwecken des Onlinemarketing eingesetzten Cookies kann bei einer Vielzahl der Dienste, vor allem im Fall des Trackings, über die US-amerikanische Seite http://www.aboutads.info/choices/ oder die EU-Seite http://www.youronlinechoices.com/ erklärt werden. Weitere Informationen zu Cookies und der Unterbindung von Datenspeichern erhalten Sie hier https://support.mozilla.org/de/kb/cookies-informationen-websites-auf-ihrem-computer.

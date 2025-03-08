@@ -1,4 +1,3 @@
-/* line 1, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/termine.scss */
 .kurstermincontainer {
   float: left;
   border-style: solid;
@@ -9,7 +8,6 @@
   position: relative;
   margin-bottom: 8px; }
 
-/* line 11, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/termine.scss */
 .kursbackground {
   position: absolute;
   width: 100%;
@@ -17,21 +15,18 @@
   opacity: 0.3;
   z-index: 0; }
 
-/* line 18, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/termine.scss */
 .kurstermincontent {
   z-index: 5;
   position: relative;
   padding: 4px; }
-  /* line 22, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/termine.scss */
-  .kurstermincontent a {
+    .kurstermincontent a {
     display: inline-block;
     color: white;
     border-color: #398439;
     background-color: #47a447;
     padding: 8px;
     margin: 8px 20px; }
-  /* line 30, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/termine.scss */
-  .kurstermincontent a:hover {
+    .kurstermincontent a:hover {
     background-color: #419641;
     background-position: 0 -15px; }
  

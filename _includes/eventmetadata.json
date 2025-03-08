@@ -3,26 +3,26 @@
     "position": "{{include.position}}",
     "item": {
         "@type": "Course",
-        "name": "Fortbildung Heilpraktiker Physiotherapie {{include.event.ort}}",
-        "description": "Fortbildung zur Anerkennung nach Aktenlage zum Heilpraktiker Physiotherapie",
-        "url": "https://heilpraktiker-physiotherapie.com/termine-und-anmeldung#{{include.event.kursnummer}}",
+        "name": "Fortbildung Heilpraktiker Ergotherapie {{include.event.ort}}",
+        "description": "Fortbildung zur Anerkennung nach Aktenlage zum Heilpraktiker Ergotherapie",
+        "url": "https://heilpraktiker-Ergotherapie.com/termine-und-anmeldung#{{include.event.kursnummer}}",
         "image": [
-            "https://heilpraktiker-physiotherapie.com/assets/images/blog/Wiesbaden-Nov16/Auskultation2-Fortbildung-Heilpraktiker-Physiotherapie.jpg",
-            "https://heilpraktiker-physiotherapie.com/assets/images/Banner5_1200x400.jpg",
-            "https://heilpraktiker-physiotherapie.com/assets/images/HP-PhysioLogo2zu1smile.png"
+            "https://heilpraktiker-Ergotherapie.com/assets/images/blog/Wiesbaden-Nov16/Auskultation2-Fortbildung-Heilpraktiker-Ergotherapie.jpg",
+            "https://heilpraktiker-Ergotherapie.com/assets/images/Banner5_1200x400.jpg",
+            "https://heilpraktiker-Ergotherapie.com/assets/images/HP-ErgoLogo2zu1smile.png"
         ],
         "provider": {
             "@type": "Organization",
-            "name": "heilpraktiker-physiotherapie.com",
-            "sameAs": "https://heilpraktiker-physiotherapie.com",
-            "logo": "https://heilpraktiker-physiotherapie.com/assets/images/LogoHPPT300.jpg"
+            "name": "heilpraktiker-Ergotherapie.com",
+            "sameAs": "https://heilpraktiker-Ergotherapie.com",
+            "logo": "https://heilpraktiker-Ergotherapie.com/assets/images/LogoHPPT300.jpg"
         },
         "offers": {
             "@type": "Offer",
             "category": "Paid",
             "price": "{{include.event.preis}}",
             "priceCurrency": "EUR",
-            "url": "https://heilpraktiker-physiotherapie.com/termine-und-anmeldung#{{include.event.kursnummer}}",
+            "url": "https://heilpraktiker-Ergotherapie.com/termine-und-anmeldung#{{include.event.kursnummer}}",
             "availability": "http://schema.org/InStock"
         },
         "hasCourseInstance": [

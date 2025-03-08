@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Impressum
-description: Impressum von heilpraktiker-physiotherapie.com
+description: Impressum von heilpraktiker-Ergotherapie.com
 
 ---
 
@@ -13,7 +13,7 @@ Kiefernstraße 33
 
 Kontakt:
 Telefon: 017624317369
-E-Mail: info@heilpraktiker-physiotherapie.com
+E-Mail: info@heilpraktiker-Ergotherapie.com
 
 Aufsichtsbehörde:
 Gesundheitsamt Düsseldorf
@@ -22,7 +22,7 @@ Kölner Str. 180
 https://www.duesseldorf.de/gesundheitsamt.html
 
 Berufsbezeichnung und berufsrechtliche Regelungen
-Berufsbezeichnung: Heilpraktiker eingeschränkt auf den Bereich der Physiotherapie
+Berufsbezeichnung: Heilpraktiker eingeschränkt auf den Bereich der Ergotherapie
 Verliehen durch: Deutschland
 Es gelten folgende berufsrechtliche Regelungen: Heilpraktikergesetz
 Regelungen einsehbar unter: https://www.gesetze-im-internet.de/heilprg/BJNR002510939.html

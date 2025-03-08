@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Kontakt für die Fortbildung Heilpraktiker Physiotherapie
-metatitle: Kontakt zur Fortbildung sektoraler Heilpraktiker Physiotherapie
-description: Kontaktformular für die Fortbildung zum Heilpraktiker für Physiotherapie
+title: Kontakt für die Fortbildung Heilpraktiker Ergotherapie
+metatitle: Kontakt zur Fortbildung sektoraler Heilpraktiker Ergotherapie
+description: Kontaktformular für die Fortbildung zum Heilpraktiker für Ergotherapie
 customamp:
     - amp-iframe
 scssfile: kontakt.scss
 ---
 
-Wir beraten Dich vor Deiner Entscheidung, helfen während der Fortbildung und sind auch für Rückfragen in Deiner Zukunft als Heilpraktiker/in für Physiotherapie auf vielen Kanälen zu erreichen.
+Wir beraten Dich vor Deiner Entscheidung, helfen während der Fortbildung und sind auch für Rückfragen in Deiner Zukunft als Heilpraktiker/in für Ergotherapie auf vielen Kanälen zu erreichen.
 
 Am besten nutzt Du dafür unser Kontaktformular.  
 
