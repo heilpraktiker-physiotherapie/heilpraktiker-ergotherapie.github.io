@@ -51,7 +51,7 @@ Wer überzeugt ist, dass er mit ergotherapeutischen Mitteln seine Patienten nich
 
 ### Direktzugang per \"Abkürzung\"
 
-Die Notwendigkeit der Ausbildung, die es Ergotherapeuten ermöglicht, auf ärztliche Verordnung hin tätig zu werden, und die dort zu erlernenden Methoden, sind im Masseur- und Ergotherapeutengesetz (MPhG) bzw. der Ausbildungsverordnung geregelt.  
+Die Notwendigkeit der Ausbildung, die es Ergotherapeuten ermöglicht, auf ärztliche Verordnung hin tätig zu werden, und die dort zu erlernenden Methoden, sind im Ergotherapeutengesetz (ErgThG) bzw. der Ausbildungsverordnung (ErgThAPrV) geregelt.  
 Dass es überhaupt einer Verordnung bedarf, dafür ist jedoch das Heilpraktikergesetz verantwortlich. 
 
 Denn hier ist geregelt, dass in Deutschland nur Ärzte und Heilpraktiker eigenständig heilkundlich tätig werden dürfen. 
