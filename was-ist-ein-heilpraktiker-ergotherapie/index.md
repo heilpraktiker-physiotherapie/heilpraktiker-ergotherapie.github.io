@@ -4,94 +4,73 @@ title: Was ist ein sektoraler Heilpraktiker Ergotherapie
 description: Beschreibung von Berufsbild und Möglichkeiten des Heilpraktiker für Ergotherapie
 ---
 
-### Was bringt mir denn die sektorale Heilpraktikererlaubnis?
-Mehr Rechte, mehr Freiheit, mehr Verantwortung, mehr Einkommen, mehr Freude am Job.
+## Was bringt mir die sektorale Heilpraktikererlaubnis in der Ergotherapie?
 
-Zumindest wenn man es schafft, die Möglichkeiten die sich einem bieten auch zu nutzen.
-Das gelingt leider nicht jedem und daher äußern sich manche unzufrieden.  
-Wenn man aber weiß, wie man agieren kann und ein bisschen Engagement aufbringt, alte Arbeits- und Vermarktungsgewohnheiten aufzubrechen, dann lassen sich alle Faktoren ergotherapeutischer Tätigkeit spürbar verbessern.
+### Mehr Freiheit – Mehr Verantwortung – Bessere Versorgung
+
+Die sektorale Heilpraktikererlaubnis für Ergotherapie bedeutet für dich als Ergotherapeut\:in deutlich mehr **therapeutische Freiheit** und **Eigenverantwortung**. Du kannst eigenständig Diagnosen stellen und deine Patient\:innen ohne ärztliche Verordnung behandeln. Das bedeutet mehr Flexibilität, erweiterte Behandlungsmöglichkeiten und weniger bürokratische Hürden.
+
+Um von diesen neuen Möglichkeiten optimal zu profitieren, braucht es jedoch den Mut und die Bereitschaft, alte Strukturen zu überdenken und neue Wege zu gehen. So verbesserst du nachhaltig Arbeitsqualität, Einkommen und Berufszufriedenheit.
+
+---
+
+### „Aber ich darf doch dann nicht mehr als vorher!?“
+
+In sozialen Medien liest man oft, dass man als sektoraler Heilpraktiker für Ergotherapie „nicht mehr dürfe als vorher“. Es stimmt: Als sektoraler Heilpraktiker für Ergotherapie darfst du ausschließlich ergotherapeutische Methoden anwenden, die du bereits aus deiner Ausbildung kennst oder die zum ergotherapeutischen Berufsbild gehören. Die entscheidende Veränderung liegt aber darin, **wie und wann** du deine Fähigkeiten einsetzen darfst:
+
+- **Patient****:innen**** direkt behandeln** – ohne ärztliche Verordnung.
+- Therapieumfang und Frequenz individuell und eigenständig festlegen.
+- Ergänzende Maßnahmen zu ärztlichen Verordnungen anbieten.
+- Neue Zielgruppen erschließen (z. B. Pädiatrie, Neurologie, Psychiatrie, Geriatrie).
+- Alle heilkundlichen Leistungen umsatzsteuerfrei abrechnen.
+
+Mit dem Direktzugang erreichst du Patient\:innen, die bisher lange Wartezeiten auf Arzttermine oder eingeschränkte Verordnungen gescheut haben. Besonders Familien, Selbstständige oder psychisch belastete Menschen profitieren enorm vom unkomplizierten und direkten Zugang zu ergotherapeutischen Leistungen.
+
+Ohne sektorale Heilpraktikererlaubnis ist Ergotherapie ein abhängiges Berufsbild: Ohne Indikationsstellung durch einen Arzt darf keine Therapie erfolgen. Mit der sektoralen Heilpraktikererlaubnis entfällt diese Einschränkung, wodurch Ergotherapie zu einem eigenständigen Berufsbild wird.
+
+---
+
+### Sektoraler Heilpraktiker vs. „großer“ Heilpraktiker
+
+Manchmal taucht die Frage auf, ob man nicht lieber den „großen“ Heilpraktiker machen sollte. Die Antwort ist eindeutig:
+
+- Der „große“ Heilpraktiker darf unterschiedliche, auch fachfremde und alternative Methoden anwenden.
+- Die Ausbildung ist sehr umfangreich und enthält viele Inhalte, die für Ergotherapeut\:innen wenig relevant sind.
+
+Die sektorale Heilpraktikererlaubnis erlaubt dir hingegen, das zu tun, was du bereits bestens beherrschst: evidenzbasierte ergotherapeutische Methoden anwenden – eigenständig, ohne ärztliche Zwischenschritte. So stärkt die sektorale Erlaubnis deine ergotherapeutische Kompetenz und ermöglicht eine individuellere und direktere Patientenversorgung.
+
+---
+
+### Mehr Verantwortung durch eigenständige Diagnostik
+
+Mit der Freiheit des Direktzugangs wächst auch deine Verantwortung. Bisher lag die Diagnostikpflicht ausschließlich beim Arzt. Als sektoraler Heilpraktiker für Ergotherapie übernimmst du nun diese wichtige Aufgabe in deinem Fachgebiet. Du musst daher sicher einschätzen können:
+
+- Gibt es Hinweise auf schwere Erkrankungen (z. B. Schlaganfall, Krebs, Herz-Kreislauf-Erkrankungen)?
+- Bestehen Risiken durch Medikamente oder zusätzliche Erkrankungen (Komorbiditäten)?
+- Spielen psychische oder psychosomatische Faktoren eine Rolle?
+
+Du bist verantwortlich, sogenannte „Red Flags“ zu erkennen und Patient\:innen bei Bedarf schnell und gezielt an eine ärztliche Abklärung weiterzuleiten. Diese Aufgabe stärkt deine Rolle im Gesundheitssystem erheblich und sorgt für eine verbesserte Versorgung deiner Patient\:innen.
+
+---
+
+### Fazit: Ein kleiner Schritt – mit großer Wirkung
+
+Der sektorale Heilpraktiker für Ergotherapie ist die logische und konsequente Erweiterung deiner ergotherapeutischen Berufsausbildung. Die Kombination aus therapeutischem Können und eigenständiger Diagnostik schafft völlig neue Möglichkeiten für deine Praxis und deine Patient\:innen.
+
+Mit der sektoralen Heilpraktikererlaubnis entsteht ein moderner, eigenständiger Berufsweg, der perfekt zu den heutigen Anforderungen der Ergotherapie passt.
+
+Nutze diese Chance – werde sektoraler Heilpraktiker für Ergotherapie und gestalte deine berufliche Zukunft aktiv, unabhängig und erfolgreich!
+
+
+
 <div markdown="0">
     <div class="left between-text-image"><amp-img src="/assets/images/blog/HPphysioAngestellte/Heilpraktiker_fuer_Angestellte.jpg" width="1484" height="780" layout="responsive" ></amp-img>   </div>
 </div>
-\"Aber ich darf dann ja nicht mehr als vorher! Was soll das dann?\" liest man in den sozialen Medien immer wieder.  
-    Dahinter steckt der Gedanke, dass man dann ja auch nur die Maßnahmen durchführen darf, die man als Ergotherapeut sonst auf Verordnung machen darf.  
-    Das stimmt auch. Die Einschätzung jedoch, dass es den Ergotherapeuten an therapeutischen Techniken und Methoden mangelt, um erfolgreich Einschränkung von Bewegungsfähigkeit und Beschwerden am Bewegungsapparat zu behandeln, wird moderner Ergotherapie einfach nicht gerecht.  
-    Die entscheidende Einschränkung ist, wie Ergotherapeuten die eigenen Fähigkeiten zur Anwendung bringen dürfen (oder eben **nicht** dürfen).
 
-
-Der "große" Heilpraktiker darf prinzipiell auf ein größeres Spektrum an Maßnahmen zurückgreifen. Allerdings muss man auch die Sinnhaftigkeit vieler häufig verwendeter "alternativer" Maßnahmen in Frage stellen. Die Vorbereitung zum "großen" Heilpraktiker erfordert weit mehr Aufwand und ist mit dem Erlernen vieler Inhalte verbunden, die für Ergotherapeuten von geringer oder vollkommen fehlender Relevanz sind.
-
-Der sektorale Heilpraktiker für Ergotherapie ist in der Lage, die großartigen Möglichkeiten der Ergotherapie genauso einzusetzen, wie der Therapeut selbst es für richtig hält und der Patient es benötigt.  
-
-- Der Therapeut wählt und bestimmt gemeinsam mit dem Patienten die Mittel, den Umfang und die Frequenz der Therapie. Dabei kann er sich vollkommen variable an Bedarf und Bedürfnisse anpassen.
-- Patienten ohne Verordnung können direkt behandelt werden
-- ohne Folgeverordnung, kann ebenso vollkommen rechtssicher weiterbehandelt werden
-- Patienten, die eine Verordnung haben, können ergänzende notwendige und sinnvolle Maßnahmen oder zusätzliche Therapieeinheiten erhalten
-- alle heilkundlichen Maßnahmen sind von der Umsatzsteuer befreit
 
 <div markdown="0">
     <div class="right between-text-image"><amp-img src="https://pbs.twimg.com/media/E572lO2UYAEW4Kt?format=jpg&name=900x900" width="900" height="900" layout="responsive" ></amp-img>   </div>
 </div>
-Mit dem Direktzugang lassen sich hervorragend neue Zielgruppen erschließen.  
-Gerade bei muskuloskelettalen Beschwerden wollen viele akute Hilfe und Erleichterung ohne allzu großen Aufwand.  
-Insbesondere Selbstständige scheuen den Gang zum Ergotherapeuten, da üblicherweise ein langer Umweg über den Arzt notwendig ist.  
-Das ist zu zeitaufwendig und mühsam, um die zwar oft sehr unangenehmen und hinderlichen, aber nicht akut bedrohlichen Probleme, zeitnah anzugehen.  
-Darüber hinaus bleiben viele Patienten auf dem Weg hängen, da die Ärzte lieber eigene Leistungen anbieten, auch weil sie das Potenzial der Ergotherapie oft nicht kennen oder aus betriebswirtschaftlichen Erwägungen.  
-Der <em>Heilpraktiker Ergotherapie</em> kann schnell und ohne Umwege Abhilfe schaffen und so große Wertschätzung erfahren.
 
-Allerdings bringt dieser Direktzugang eben auch mehr Verantwortung. 
-Während sonst der Arzt die Aufgabe hat vor der Überweisung zum Therapeuten Untersuchungen auf mögliche schwerwiegende und vielleicht akut bedrohliche Erkrankungen durchzuführen, fällt diese enorm wichtige Aufgabe nun dem Ergotherapeuten selber zu.  
-Gibt es Hinweise auf Krebserkrankungen, Herzleiden, Erkrankungen abdomineller Organe, Gefäß- oder Nervenschäden? Welchen Einfluss könnten Medikamente haben? Welche Rolle spielen psychogene oder psychosomatische Faktoren?  
-Das und vieles mehr muss der Therapeut sicher und verlässlich einschätzen können.
-
-Wer überzeugt ist, dass er mit ergotherapeutischen Mitteln seine Patienten nicht adäquat behandeln kann und auf fachfremde Methoden zurückgreifen muss, der benötigt den "großen" Heilpraktiker.  
-**Alle diejenigen die erkennen, dass mit einer Fokussierung auf optimale ergotherapeutische Versorgung, den meisten Patienten viel mehr geholfen werden kann als mit dem Aufweichen des eigenen Kompetenzfeldes, sollten sich aber bewusst für den sektoralen Heilpraktiker für Ergotherapie entscheiden.**  
-
-## Der Heilpraktiker Ergotherapie
-
-### Direktzugang per \"Abkürzung\"
-
-Die Notwendigkeit der Ausbildung, die es Ergotherapeuten ermöglicht, auf ärztliche Verordnung hin tätig zu werden, und die dort zu erlernenden Methoden, sind im Ergotherapeutengesetz (ErgThG) bzw. der Ausbildungsverordnung (ErgThAPrV) geregelt.  
-Dass es überhaupt einer Verordnung bedarf, dafür ist jedoch das Heilpraktikergesetz verantwortlich. 
-
-Denn hier ist geregelt, dass in Deutschland nur Ärzte und Heilpraktiker eigenständig heilkundlich tätig werden dürfen. 
-Auch wenn diese nicht explizit erwähnt werden, bedeutet dies für alle Gesundheitsfachberufe, dass diese nur unter der Verantwortung eines Arztes \(oder Heilpraktikers\) delegierbare Anwendungen zu heilkundlichen \(therapeutischen\) Zwecken durchführen dürfen.
-
-Bei vielen ausgebildeten Therapeuten sorgt dieses Gesetz immer wieder für Unverständnis und Ärger. Aber letztendlich, ist dieses Gesetz heute wohl mehr Segen als Fluch für alle Ergotherapeuten.  
-Ein Heilpraktiker benötigt überhaupt keine Ausbildung und darf vielfältige und sogar invasive Maßnahmen an Patienten durchführen.  
-Lediglich eine schriftliche und mündliche Prüfung beim Gesundheitsamt muss er vorher bestehen. Ein ausgebildeter und sehr umfangreich geprüfter Ergotherapeut darf ohne Verordnung im Grunde gar nicht behandeln. Das scheint in keinem vernünftigen Verhältnis zu stehen.
-
-Allerdings sind es auch einfach zwei ganz unterschiedliche Dinge und daher kaum zu vergleichen.  
-Bei einer staatlich anerkannten Berufsausbildung geht es um das Erlernen berufstypischer Fähigkeiten und Fertigkeiten nach gewissen Standards.  
-Jeder Patient und Arzt kann sich so darauf verlassen, dass ein Ergotherapeut die berufstypischen Maßnahmen kennt und durchführen kann.  
-Die Erlaubnis, die Berufsbezeichnung "Ergotherapeut/in" zu tragen, bescheinigt frei formuliert: "Person X hat das Wissen und die praktischen Fähigkeiten entsprechend der Ausbildungsverordnung erlernt und unter Beweis gestellt, diese zu beherrschen.  
-Er/Sie ist in der Lage, ergotherapeutische Maßnahmen sicher und korrekt anzuwenden".  
-Es geht dabei um die korrekte Ausführung einer entsprechenden therapeutischen Maßnahme.
-Beim Heilpraktiker ist das anders. Die korrekte Ausführung therapeutischer Maßnahmen wird hier nicht geprüft und deren Beherrschung nicht bescheinigt.  
-Unter "Beweis" gestellt werden muss vom Anwärter lediglich, dass er bei der Auswahl heilkundlicher Maßnahmen keine Gefahr für den Einzelnen und die Allgemeinheit darstellt.   
-Im Grunde muss der Heilpraktiker wissen, was er darf und was er nicht darf und er muss wissen, wie er die Situationen differenzieren kann.   
-Darauf werden wiederum Ergotherapeuten/innen in Ihrer Berufsausbildung weder direkt vorbereitet, noch am Ende entsprechend geprüft.   
-Diese Differenzierung (Diagnostik) muss daher zunächst jemand anderes (ein Arzt oder Heilpraktiker) durchführen, bevor der Ergotherapeut tätig werden darf.
-Es sind also zwei verschiedene Dinge.
-
-Der Heilpraktiker wiederum darf streng genommen nach dem Ablegen der Prüfung auch nicht einfach therapeutisch tätig werden. 
-Auch der Heilpraktiker darf "den Bereich des sicheren Könnens" nicht verlassen. Er muss also angemessen sicher beherrschen, was er anwenden möchte, um es auch anwenden zu dürfen. 
-Die Einschätzung, ob er genügend Fähigkeiten und Fertigkeiten besitzt, obliegt ihm allerdings erstmal selber, zumindest so lange ihn niemand wegen einer Schädigung verklagt und ein Richter eine Einschätzung dazu finden muss.  
-Dann müsste der Heilpraktiker im Zweifel entsprechende Kenntnisse nachweisen.
-
-### Dann kam der sektorale Heilpraktiker 
-...und damit eigentlich die perfekte Symbiose dieser zwei so unterschiedlichen Ansätze von Berufserlaubnissen.
-
-Für die Sicherstellung ausreichender Fähigkeiten und Fertigkeiten in der Anwendung ergotherapeutischer Maßnahmen sorgt die Ausbildung samt Abschlussprüfung.  
-Für die Sicherstellung ausreichender Fähigkeiten in Bezug auf Differentialdiagnostik und ausreichend Wissen zu den Grenzen der eigenen therapeutischen Möglichkeiten und Kompetenzen, sorgt die (eingeschränkte) Heilpraktikerprüfung bzw. die Nachqualifikation.  
-Somit haben Patienten jetzt die Möglichkeit, direkt mit Ihren Beschwerden einen Ergotherapeuten aufzusuchen.  
-Sie sollen darauf vertrauen können, dass dieser die ergotherapeutischen Maßnahmen beherrscht und gleichzeitig auch in der Lage ist zu erkennen, wann andere Maßnahmen als die der Ergotherapie indiziert sind.
-
-Einige Ergotherapeuten äußern ein gewisses Unbehagen bzgl. des sektoralen Heilpraktiker für Ergotherapie. Es sei eine Abwertung der ergotherapeutischen Ausbildung, wenn erst der Heilpraktiker den Direktzugang ermögliche.  
-Wir denken aber man sollte es als Aufwertung wahrnehmen.  
-Der Direktzugang zur Ergotherapie ohne Heilpraktikererlaubnis war stets in weiter Ferne.  
-Es wurde aber gerichtlich festgestellt, dass Ergotherapeuten schon fast alles mitbringen für den Direktzugang.   
-Es fehlt nur der Nachweis über grundlegende Fähigkeiten der Differentialdiagnostik (und, aus rechtlichen Gründen, ein bisschen Wissen der Berufskunde des Heilpraktikers).  
-Für alle ausgebildeten Ergotherapeuten ist das nur noch ein kleiner Schritt, der Ihnen große neue Möglichkeiten eröffnet und im Grunde erst ein freies eigenständiges Berufsbild schafft. 
 
 
